@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7767FA44-72C9-401E-8605-D4203A831979}|https">
+  <MonoDevelop.Ide.ItemProperties.productReviewAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="productReviewAPI/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="productReviewAPI/Program.cs" />
+      <File FileName="productReviewAPI/Models/Product.cs" />
+      <File FileName="productReviewAPI/Models/Review.cs" />
+      <File FileName="productReviewAPI/Data/productReviewContext.cs" />
+      <File FileName="productReviewAPI/appsettings.json" />
+      <File FileName="productReviewAPI/Migrations/productReviewContextModelSnapshot.cs" />
+      <File FileName="productReviewAPI/Controllers/ProductController.cs" Line="63" Column="1" />
+      <File FileName="productReviewAPI/ViewModel/ProductDto.cs" />
+      <File FileName="productReviewAPI/Migrations/20230428082150_product_entity_field_changed.cs" />
+      <File FileName="productReviewAPI/Migrations/20230428080815_CreateInitial1.cs" />
+      <File FileName="productReviewAPI/ViewModel/ReviewDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="productReviewAPI" expanded="True">
+            <Node name="productReviewAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
